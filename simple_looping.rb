@@ -18,6 +18,7 @@ counter = 0
     break
   end
 end
+
 end
 
 def times_iterator(number_of_times)
